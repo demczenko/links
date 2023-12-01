@@ -1,0 +1,6 @@
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties#discrete
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations
+https://developer.mozilla.org/en-US/docs/Web/CSS/Value_definition_syntax#double_bar
+https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Block_formatting_context
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_positioned_layout/Understanding_z-index/Stacking_context
+https://developer.mozilla.org/en-US/docs/Web/CSS/Containing_block
